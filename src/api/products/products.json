@@ -1,0 +1,62 @@
+[
+  {
+    "driverCode": "DRV-001",
+    "driverName": "Santhosh John",
+    "driverAge": 29,
+    "driverRating": 4.2,
+    "carMake": "Audi",
+    "carDescription": "Make yourself feel relaxed in the superior Audi.",
+    "carImageUrl": "./assets/images/pic-1-audi.jpg",
+    "bookedDate": "11-08-2018"
+  },
+  {
+    "driverCode": "DRV-002",
+    "driverName": "Paul Petersen",
+    "driverAge": 32,
+    "driverRating": 3.8,
+    "carMake": "Mercedes",
+    "carDescription": "Make yourself feel relaxed in the superior Mercedes.",
+    "carImageUrl": "./assets/images/pic-2-mercedes.jpg",
+    "bookedDate": "01-07-2018"
+  },
+  {
+    "driverCode": "DRV-003",
+    "driverName": "David Marker",
+    "driverAge": 40,
+    "driverRating": 2.6,
+    "carMake": "Audi",
+    "carDescription": "Make yourself feel relaxed in the superior Audi.",
+    "carImageUrl": "./assets/images/pic-3-audi.jpg",
+    "bookedDate": "01-06-2017"
+  },
+  {
+    "driverCode": "DRV-004",
+    "driverName": "Sunil Kumar",
+    "driverAge": 23,
+    "driverRating": 4.9,
+    "carMake": "Toyota",
+    "carDescription": "Make yourself feel relaxed in the superior Toyota.",
+    "carImageUrl": "./assets/images/pic-4-toyota.jpg",
+    "bookedDate": "23-11-2013"
+  },
+  {
+    "driverCode": "DRV-005",
+    "driverName": "Santhosh Khanna",
+    "driverAge": 35,
+    "driverRating": 4.1,
+    "carMake": "Mercedes",
+    "carDescription": "Make yourself feel relaxed in the superior Mercedes.",
+    "carImageUrl": "./assets/images/pic-5-mercedes.jpg",
+    "bookedDate": "12-12-2017"
+  },
+  {
+    "driverCode": "DRV-006",
+    "driverName": "Mike Taylor",
+    "driverAge": 48,
+    "driverRating": 4.6,
+    "carMake": "Chevrolet",
+    "carDescription": "Make yourself feel relaxed in the superior Chevrolet.",
+    "carImageUrl": "./assets/images/pic-6-chevrolet.jpg",
+    "bookedDate": "31-07-2015"
+  }
+]
